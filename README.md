@@ -33,12 +33,12 @@ Finalizar todos os passos para que possa terminar o Bootcamp com o maior rendime
 # Exemplo de tasks: planejamento de cursos em um mês
 
 ## Metas do mês de Novembro: 
-- [X] Terminar toda parte de Javascript [16h] (13/11/2022)
+- [ ] Terminar toda parte de Javascript [16h] (13/11/2022)
 - [ ] Terminar toda a parte de React [12h] (26/11/2022)
 - [ ] Terminar toda a parte de Typescript [1h] (27/11/2022)
 
 ## Tasks para maximar o aprendizado:
-- [ ] Se aprofundar na documentação de Javascript
+- [x] Se aprofundar na documentação de Javascript
 - [ ] Se aprofundar na documentação de Reactjs
 - [ ] Faça anotações
 - [ ] Faça os projetos sozinho depois busque a resposta
