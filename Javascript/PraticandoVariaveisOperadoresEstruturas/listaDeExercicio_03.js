@@ -4,7 +4,7 @@ let meioDePagamento = 4;
 //vista debito 10%
 //vista Dinheiro ou Pix 15%
 //2 x preço normal
-//mais vezes juros de 10%
+//mais vezes juros de 10%s
 
 if (meioDePagamento === 1) {
   console.log(valorEtiqueta - valorEtiqueta * 0.1);

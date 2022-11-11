@@ -1,5 +1,3 @@
-const { LinuxLogo } = require("phosphor-react");
-
 const peso = 120;
 const altura = 1.7;
 
